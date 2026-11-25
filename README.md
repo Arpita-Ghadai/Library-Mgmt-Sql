@@ -103,8 +103,8 @@ Execute the SQL files in the following order:
 
 ## 👨‍💻 Author
 
-**Soumyakant Sahu**
+**Arpita Ghadai**
 
-B.Tech CSE (IoT)
+B.Tech CE - IIIT-B
 
 GitHub: *(Add your GitHub profile link here)*
