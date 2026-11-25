@@ -106,5 +106,3 @@ Execute the SQL files in the following order:
 **Arpita Ghadai**
 
 B.Tech CE - IIIT-BH
-
-GitHub: *(Add your GitHub profile link here)*
