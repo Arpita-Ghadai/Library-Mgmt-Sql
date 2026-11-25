@@ -10,7 +10,6 @@ DROP PROCEDURE IF EXISTS SearchBook;
 DROP PROCEDURE IF EXISTS AddMember;
 DROP PROCEDURE IF EXISTS IssueBook;
 DROP PROCEDURE IF EXISTS ReturnBook;
-
 DELIMITER $$
 
 -- ==========================================================
